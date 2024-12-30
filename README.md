@@ -6,7 +6,7 @@ Welcome to the **100 Python Projects Collection**! This repository contains a co
 
 Below is a list of the projects included in this repository:
 
-1. [YouTube Video Downloader](#youtube-video-downloader)
+1. [YouTube Video Downloader](https://github.com/mushfikurahmaan/snacks-and-scripts/blob/master/yt-video-downloader/youtube-video-downloader.md)
 2. [URL Shortener](#url-shortener)
 3. [To-Do List App](#to-do-list-app)
 4. [Weather App](#weather-app)
